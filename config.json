@@ -1,0 +1,19 @@
+{
+    "driver_path": "C:/Webdriver/chromedriver",
+    "fb_email": "giantrockstar77@gmail.com",
+    "fb_password": "india77",
+    "updated_profile": "I am available",
+    "location_to_add_friend": [
+        "mexico",
+        "india"
+    ],
+    "profiles_to_comment": [
+        "https://facebook.com/virat.kohli/",
+        "https://facebook.com/leomessi/"
+    ],
+    "comments": [
+        "This is good",
+        "Hope all is well",
+        "Way to go"
+    ]
+}
