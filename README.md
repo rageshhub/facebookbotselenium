@@ -14,7 +14,7 @@ pip install selenium
 
 ### usage
 ```sh
-python facebook_bot.py
+python facebook_automate.py
 ```
 
 ## Change the values in config.json to customise the script.  
