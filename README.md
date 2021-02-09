@@ -1,7 +1,20 @@
 # facebookbotselenium
 Automate facebook comments on recent post of a profile and add friends based on location
 
-### Installation
-pip install selenium
+### Features
+ - Automate Posting comments on user recent post
+ - Add friends based on location
+ - Update your own profile status
 
-Change the keys in config.json to customise the script.  
+### Installation
+```sh
+pip install selenium
+```
+
+
+### usage
+```sh
+python facebook_bot.py
+```
+
+## Change the values in config.json to customise the script.  
