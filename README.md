@@ -18,3 +18,4 @@ python facebook_automate.py
 ```
 
 ## Change the values in config.json to customise the script.  
+Change your **email** and **password** in config.json
